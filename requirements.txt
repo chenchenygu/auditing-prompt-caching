@@ -1,0 +1,14 @@
+anthropic[bedrock]
+httpx
+numpy
+python-dotenv
+requests
+scipy
+tenacity
+tqdm
+
+# ruff linter and formatter
+ruff
+
+# precommit hooks
+pre-commit
