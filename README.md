@@ -1,6 +1,6 @@
 # Auditing Prompt Caching in Language Model APIs
 
-This repository contains code and data for the paper [Auditing Prompt Caching in Language Model APIs](https://arxiv.org/abs/2502.07776) by [Chenchen Gu](https://chenchenygu.github.io/), [Xiang Lisa Li](https://xiangli1999.github.io/), [Rohith Kuditipudi](https://web.stanford.edu/~rohithk/), [Percy Liang](https://cs.stanford.edu/~pliang/), [Tatsunori Hashimoto](https://thashim.github.io/).
+This repository contains code and data for the ICML 2025 paper [Auditing Prompt Caching in Language Model APIs](https://arxiv.org/abs/2502.07776) by [Chenchen Gu](https://chenchenygu.github.io/), [Xiang Lisa Li](https://xiangli1999.github.io/), [Rohith Kuditipudi](https://web.stanford.edu/~rohithk/), [Percy Liang](https://cs.stanford.edu/~pliang/), [Tatsunori Hashimoto](https://thashim.github.io/).
 
 This code is intended solely for research purposes, and should not be used for any malicious or harmful purposes.
 
@@ -134,10 +134,10 @@ This [Google Drive folder](https://drive.google.com/drive/folders/1u3W5gFcGrOMfq
 
 Please cite this work using this BibTeX entry:
 ```bibtex
-@article{gu2025auditing,
-  title={Auditing Prompt Caching in Language Model APIs},
-  author={Gu, Chenchen and Li, Xiang Lisa and Kuditipudi, Rohith and Liang, Percy and Hashimoto, Tatsunori},
-  journal={arXiv preprint arXiv:2502.07776},
+@inproceedings{gu2025auditing,
+  title={Auditing Prompt Caching in Language Model {API}s},
+  author={Chenchen Gu and Xiang Lisa Li and Rohith Kuditipudi and Percy Liang and Tatsunori Hashimoto},
+  booktitle={Forty-second International Conference on Machine Learning},
   year={2025},
   url={https://arxiv.org/abs/2502.07776},
 }
