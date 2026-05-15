@@ -135,10 +135,14 @@ This [Google Drive folder](https://drive.google.com/drive/folders/1u3W5gFcGrOMfq
 Please cite this work using this BibTeX entry:
 ```bibtex
 @inproceedings{gu2025auditing,
-  title={Auditing Prompt Caching in Language Model {API}s},
-  author={Chenchen Gu and Xiang Lisa Li and Rohith Kuditipudi and Percy Liang and Tatsunori Hashimoto},
-  booktitle={Forty-second International Conference on Machine Learning},
-  year={2025},
-  url={https://arxiv.org/abs/2502.07776},
+  title     = {Auditing Prompt Caching in Language Model {API}s},
+  author    = {Gu, Chenchen and Li, Xiang Lisa and Kuditipudi, Rohith and Liang, Percy and Hashimoto, Tatsunori},
+  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},
+  pages     = {20477--20496},
+  year      = {2025},
+  volume    = {267},
+  series    = {Proceedings of Machine Learning Research},
+  publisher = {PMLR},
+  url       = {https://proceedings.mlr.press/v267/gu25b.html}
 }
 ```
